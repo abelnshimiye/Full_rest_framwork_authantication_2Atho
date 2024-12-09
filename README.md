@@ -1,7 +1,7 @@
 ### Django Full Authentication with JWT
 This repository implements a full authentication system for APIs using Django and JSON Web Tokens (JWT) without relying on third-party authentication libraries. It includes features such as user registration, login, token generation, and secure access to protected API endpoints.
 
-##Features
+## Features
 
 User Registration: Allows users to register with a unique email and password.
 Login: Generates a JWT upon successful authentication.
